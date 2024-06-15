@@ -1,0 +1,663 @@
+2024-05-20T23:04:44.487Z [32minfo[39m: Page loaded completely
+2024-05-20T23:04:44.761Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:04:44.859Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:04:45.111Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:04:45.272Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:04:45.313Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:04:45.390Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-20T23:04:45.546Z [32minfo[39m: Page loaded completely
+2024-05-20T23:06:53.816Z [32minfo[39m: Page loaded completely
+2024-05-20T23:06:54.049Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:06:54.121Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:06:54.340Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:06:54.489Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:06:54.505Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:06:54.585Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-20T23:06:54.701Z [32minfo[39m: Page loaded completely
+2024-05-20T23:08:12.813Z [32minfo[39m: Page loaded completely
+2024-05-20T23:08:13.052Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:08:13.133Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:08:13.373Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:08:13.550Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:08:13.560Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:08:13.640Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-20T23:08:13.795Z [32minfo[39m: Page loaded completely
+2024-05-20T23:09:26.355Z [32minfo[39m: Page loaded completely
+2024-05-20T23:09:26.599Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:09:26.678Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:09:26.918Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:09:27.050Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:09:27.064Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:09:27.153Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-20T23:09:27.283Z [32minfo[39m: Page loaded completely
+2024-05-20T23:10:23.066Z [32minfo[39m: Page loaded completely
+2024-05-20T23:10:23.323Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:10:23.404Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:10:23.636Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:10:23.854Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:10:23.871Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:10:23.948Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-20T23:10:24.090Z [32minfo[39m: Page loaded completely
+2024-05-20T23:18:48.304Z [32minfo[39m: Page loaded completely
+2024-05-20T23:18:48.581Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:18:48.686Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:18:48.962Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:18:49.115Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:18:49.127Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:18:49.196Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-20T23:18:49.340Z [32minfo[39m: Page loaded completely
+2024-05-20T23:19:00.946Z [32minfo[39m: Page loaded completely
+2024-05-20T23:19:01.178Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:19:01.228Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-20T23:19:01.468Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:19:01.629Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-20T23:19:01.640Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:31:57.360Z [32minfo[39m: Page loaded completely
+2024-05-21T03:31:57.691Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:31:57.773Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:31:58.017Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:31:58.246Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:31:58.265Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:31:58.371Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-21T03:31:58.553Z [32minfo[39m: Page loaded completely
+2024-05-21T03:32:11.076Z [32minfo[39m: Page loaded completely
+2024-05-21T03:32:11.361Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:32:11.481Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:32:11.734Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:32:11.918Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:32:11.936Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:33:02.705Z [32minfo[39m: Page loaded completely
+2024-05-21T03:33:03.042Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:33:03.210Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:33:03.468Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:33:03.737Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:33:03.754Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:33:03.839Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-21T03:33:04.011Z [32minfo[39m: Page loaded completely
+2024-05-21T03:33:16.611Z [32minfo[39m: Page loaded completely
+2024-05-21T03:33:16.897Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:33:17.038Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T03:33:17.288Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:33:17.492Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T03:33:17.506Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T06:36:05.313Z [32minfo[39m: Page loaded completely
+2024-05-21T06:36:05.637Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T06:36:05.724Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T06:36:05.985Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T06:36:06.248Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T06:36:06.269Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T06:36:06.424Z [32minfo[39m: Test "Should open window for sended phone code" passed
+2024-05-21T06:36:06.620Z [32minfo[39m: Page loaded completely
+2024-05-21T06:36:19.074Z [32minfo[39m: Page loaded completely
+2024-05-21T06:36:19.320Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T06:36:19.436Z [32minfo[39m: Clicked element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1])
+2024-05-21T06:36:19.681Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T06:36:19.997Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-21T06:36:20.052Z [32minfo[39m: Element located: By(xpath, //*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1])
+2024-05-24T20:54:31.395Z [32minfo[39m: Page loaded completely
+2024-05-24T20:54:31.629Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T20:54:31.798Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:03:07.925Z [32minfo[39m: Page loaded completely
+2024-05-24T21:03:08.199Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:03:08.319Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:05:22.072Z [32minfo[39m: Page loaded completely
+2024-05-24T21:05:22.319Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:05:22.437Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:05:22.446Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-05-24T21:05:22.524Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-05-24T21:06:27.718Z [32minfo[39m: Page loaded completely
+2024-05-24T21:06:28.169Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:06:28.235Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:06:28.244Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-05-24T21:06:28.302Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-05-24T21:07:10.192Z [32minfo[39m: Page loaded completely
+2024-05-24T21:07:10.426Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:07:10.506Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-05-24T21:07:10.517Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-05-24T21:07:10.581Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T06:59:18.122Z [32minfo[39m: Page loaded completely
+2024-06-12T06:59:18.597Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T06:59:18.733Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T06:59:18.815Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T06:59:18.972Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:05:54.905Z [32minfo[39m: Page loaded completely
+2024-06-12T07:05:55.358Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:05:55.490Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:05:55.576Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:05:55.938Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:16:57.300Z [32minfo[39m: Page loaded completely
+2024-06-12T07:16:57.774Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:16:57.892Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:16:57.908Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:16:57.987Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:32:04.188Z [32minfo[39m: Page loaded completely
+2024-06-12T07:32:04.705Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:32:04.895Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:32:04.921Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:32:05.064Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:35:01.628Z [32minfo[39m: Page loaded completely
+2024-06-12T07:35:15.961Z [32minfo[39m: Page loaded completely
+2024-06-12T07:35:16.418Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:35:16.530Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:35:16.545Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:35:16.684Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:36:14.850Z [32minfo[39m: Page loaded completely
+2024-06-12T07:38:35.306Z [32minfo[39m: Page loaded completely
+2024-06-12T07:38:49.324Z [32minfo[39m: Page loaded completely
+2024-06-12T07:38:49.785Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:38:50.007Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:38:50.081Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:38:50.195Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:39:48.198Z [32minfo[39m: Page loaded completely
+2024-06-12T07:40:12.591Z [32minfo[39m: Page loaded completely
+2024-06-12T07:40:25.182Z [32minfo[39m: Page loaded completely
+2024-06-12T07:40:25.664Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:40:25.841Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T07:40:25.890Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:40:26.011Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T07:41:23.117Z [32minfo[39m: Page loaded completely
+2024-06-12T08:08:56.587Z [32minfo[39m: Page loaded completely
+2024-06-12T08:09:11.276Z [32minfo[39m: Page loaded completely
+2024-06-12T08:09:11.749Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T08:09:11.952Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T08:09:11.975Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T08:09:12.081Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T08:14:54.152Z [32minfo[39m: Page loaded completely
+2024-06-12T08:15:09.225Z [32minfo[39m: Page loaded completely
+2024-06-12T08:15:09.474Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T08:15:09.735Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T08:15:09.774Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T08:15:09.921Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T08:38:34.677Z [32minfo[39m: Page loaded completely
+2024-06-12T08:38:49.059Z [32minfo[39m: Page loaded completely
+2024-06-12T08:38:49.738Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T08:38:49.958Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[1]/div/input)
+2024-06-12T08:38:49.992Z [32minfo[39m: Element located: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-12T08:38:50.138Z [32minfo[39m: Clicked element: By(xpath, //*[@id="__next"]/div/div/div/div/div[3]/div[1]/div/div[3]/button)
+2024-06-14T16:35:21.952Z [32minfo[39m: Page loaded completely
+2024-06-14T16:35:21.975Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T16:35:22.103Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T16:39:30.115Z [32minfo[39m: Page loaded completely
+2024-06-14T16:39:30.132Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T16:39:30.239Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T16:48:48.182Z [32minfo[39m: Page loaded completely
+2024-06-14T16:48:48.197Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T16:48:48.273Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T16:56:24.933Z [32minfo[39m: Page loaded completely
+2024-06-14T16:56:24.966Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T16:56:25.224Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:01:15.154Z [32minfo[39m: Page loaded completely
+2024-06-14T17:01:15.184Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:01:15.700Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:01:15.727Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:01:15.836Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:29:41.053Z [32minfo[39m: Page loaded completely
+2024-06-14T17:29:41.194Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:29:41.452Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:32:14.011Z [32minfo[39m: Page loaded completely
+2024-06-14T17:32:14.056Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:32:14.479Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:32:49.498Z [32minfo[39m: Page loaded completely
+2024-06-14T17:32:49.552Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:32:49.728Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:33:50.851Z [32minfo[39m: Page loaded completely
+2024-06-14T17:33:50.904Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:33:51.177Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:33:51.906Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:33:51.920Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:33:52.062Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:36:44.990Z [32minfo[39m: Page loaded completely
+2024-06-14T17:36:45.023Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:36:45.395Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:36:46.108Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:36:46.127Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:36:46.263Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:38:04.816Z [32minfo[39m: Page loaded completely
+2024-06-14T17:38:04.853Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:38:05.038Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T17:38:05.759Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:38:05.771Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T17:38:05.946Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T18:47:57.642Z [32minfo[39m: Page loaded completely
+2024-06-14T18:47:57.657Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:47:57.720Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:50:34.720Z [32minfo[39m: Page loaded completely
+2024-06-14T18:50:34.740Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:50:34.811Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:53:02.835Z [32minfo[39m: Page loaded completely
+2024-06-14T18:53:02.853Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:53:02.927Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:53:02.942Z [32minfo[39m: Element located: By(xpath, //*[@id="user_email"])
+2024-06-14T18:53:03.029Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_email"])
+2024-06-14T18:55:12.133Z [32minfo[39m: Page loaded completely
+2024-06-14T18:55:12.149Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:55:12.213Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:55:12.229Z [32minfo[39m: Element located: By(xpath, //*[@id="user_email"])
+2024-06-14T18:55:12.300Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_email"])
+2024-06-14T18:56:24.735Z [32minfo[39m: Page loaded completely
+2024-06-14T18:56:24.748Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:56:26.166Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T18:56:26.177Z [32minfo[39m: Element located: By(xpath, //*[@id="user_email"])
+2024-06-14T18:56:26.289Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_email"])
+2024-06-14T18:56:26.301Z [32minfo[39m: Element located: By(xpath, //*[@id="user_password"])
+2024-06-14T18:56:26.356Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_password"])
+2024-06-14T18:56:26.367Z [32minfo[39m: Element located: By(css selector, [id^="submit_user"])
+2024-06-14T18:56:26.818Z [32minfo[39m: Clicked element: By(css selector, [id^="submit_user"])
+2024-06-14T19:12:09.864Z [32minfo[39m: Page loaded completely
+2024-06-14T19:12:09.883Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T19:12:09.947Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T19:12:09.959Z [32minfo[39m: Element located: By(xpath, //*[@id="user_email"])
+2024-06-14T19:12:10.054Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_email"])
+2024-06-14T19:12:10.063Z [32minfo[39m: Element located: By(xpath, //*[@id="user_password"])
+2024-06-14T19:12:10.146Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_password"])
+2024-06-14T19:12:10.158Z [32minfo[39m: Element located: By(css selector, [id^="submit_user"])
+2024-06-14T19:12:10.769Z [32minfo[39m: Clicked element: By(css selector, [id^="submit_user"])
+2024-06-14T19:14:30.936Z [32minfo[39m: Page loaded completely
+2024-06-14T19:14:30.953Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T19:14:31.025Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T19:14:31.038Z [32minfo[39m: Element located: By(xpath, //*[@id="user_email"])
+2024-06-14T19:14:31.123Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_email"])
+2024-06-14T19:14:31.135Z [32minfo[39m: Element located: By(xpath, //*[@id="user_password"])
+2024-06-14T19:14:31.222Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_password"])
+2024-06-14T19:14:31.230Z [32minfo[39m: Element located: By(css selector, [id^="submit_user"])
+2024-06-14T19:14:31.931Z [32minfo[39m: Clicked element: By(css selector, [id^="submit_user"])
+2024-06-14T19:17:59.903Z [32minfo[39m: Page loaded completely
+2024-06-14T19:17:59.924Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T19:17:59.994Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T19:18:00.009Z [32minfo[39m: Element located: By(xpath, //*[@id="user_password"])
+2024-06-14T19:18:00.088Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_password"])
+2024-06-14T19:18:00.101Z [32minfo[39m: Element located: By(css selector, [id^="submit_user"])
+2024-06-14T19:18:00.797Z [32minfo[39m: Clicked element: By(css selector, [id^="submit_user"])
+2024-06-14T20:13:07.835Z [32minfo[39m: Page loaded completely
+2024-06-14T20:13:07.856Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:13:08.005Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:13:08.535Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:13:08.539Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:13:08.609Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:13:08.623Z [32minfo[39m: Element located: By(css selector, .trigger)
+2024-06-14T20:17:48.292Z [32minfo[39m: Page loaded completely
+2024-06-14T20:17:48.358Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T20:17:48.455Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T20:17:48.468Z [32minfo[39m: Element located: By(xpath, //*[@id="user_password"])
+2024-06-14T20:17:48.571Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_password"])
+2024-06-14T20:17:48.580Z [32minfo[39m: Element located: By(css selector, [id^="submit_user"])
+2024-06-14T20:17:49.166Z [32minfo[39m: Clicked element: By(css selector, [id^="submit_user"])
+2024-06-14T20:18:19.354Z [32minfo[39m: Page loaded completely
+2024-06-14T20:18:19.368Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T20:18:19.419Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T20:18:19.431Z [32minfo[39m: Element located: By(xpath, //*[@id="user_password"])
+2024-06-14T20:18:19.501Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_password"])
+2024-06-14T20:18:19.512Z [32minfo[39m: Element located: By(css selector, [id^="submit_user"])
+2024-06-14T20:18:20.369Z [32minfo[39m: Clicked element: By(css selector, [id^="submit_user"])
+2024-06-14T20:34:56.819Z [32minfo[39m: Page loaded completely
+2024-06-14T20:34:56.836Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T20:34:56.895Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T20:34:56.905Z [32minfo[39m: Element located: By(xpath, //*[@id="user_password"])
+2024-06-14T20:34:56.984Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_password"])
+2024-06-14T20:34:56.997Z [32minfo[39m: Element located: By(css selector, [id^="submit_user"])
+2024-06-14T20:34:57.580Z [32minfo[39m: Clicked element: By(css selector, [id^="submit_user"])
+2024-06-14T20:48:24.538Z [32minfo[39m: Page loaded completely
+2024-06-14T20:48:24.568Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:48:24.742Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:48:25.402Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:48:25.451Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:48:25.559Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:48:25.595Z [32minfo[39m: Element located: By(css selector, .trigger)
+2024-06-14T20:49:05.753Z [32minfo[39m: Page loaded completely
+2024-06-14T20:49:06.075Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:49:06.187Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:49:06.880Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:49:06.892Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:49:07.024Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:49:07.050Z [32minfo[39m: Element located: By(css selector, .trigger)
+2024-06-14T20:50:03.673Z [32minfo[39m: Page loaded completely
+2024-06-14T20:50:03.710Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:50:04.117Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:50:04.618Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:50:04.781Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:50:04.804Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:50:04.821Z [32minfo[39m: Element located: By(css selector, .trigger)
+2024-06-14T20:51:05.664Z [32minfo[39m: Page loaded completely
+2024-06-14T20:51:05.710Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:51:06.001Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:51:06.503Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:51:06.515Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:51:06.791Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:51:06.816Z [32minfo[39m: Element located: By(css selector, .trigger)
+2024-06-14T20:52:36.557Z [32minfo[39m: Page loaded completely
+2024-06-14T20:52:36.589Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:52:36.845Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:52:37.688Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:52:37.715Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:52:38.068Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:52:38.097Z [32minfo[39m: Element located: By(css selector, .trigger)
+2024-06-14T20:59:31.008Z [32minfo[39m: Page loaded completely
+2024-06-14T20:59:31.049Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:59:31.377Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T20:59:31.904Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:59:31.922Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:59:32.075Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T20:59:32.566Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T20:59:32.680Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T20:59:32.827Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T21:02:35.015Z [32minfo[39m: Page loaded completely
+2024-06-14T21:02:35.050Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:02:35.206Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:02:35.923Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:02:36.008Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:02:36.119Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:02:36.586Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T21:02:36.811Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T21:02:36.834Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T21:08:03.810Z [32minfo[39m: Page loaded completely
+2024-06-14T21:08:03.852Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:08:03.991Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:08:04.688Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:08:04.723Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:08:04.852Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:08:05.179Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T21:08:05.302Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T21:08:05.460Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T21:08:29.585Z [32minfo[39m: Page loaded completely
+2024-06-14T21:08:29.621Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:08:29.958Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:08:30.690Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:08:30.702Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:08:30.846Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:08:31.332Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T21:08:31.453Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T21:08:31.627Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T21:17:10.185Z [32minfo[39m: Page loaded completely
+2024-06-14T21:17:10.238Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:17:10.748Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:17:11.485Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:17:11.502Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:17:11.647Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T21:25:11.721Z [32minfo[39m: Page loaded completely
+2024-06-14T21:25:11.807Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:28:55.557Z [32minfo[39m: Page loaded completely
+2024-06-14T21:28:55.579Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:29:48.126Z [32minfo[39m: Page loaded completely
+2024-06-14T21:29:48.157Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:36:02.999Z [32minfo[39m: Page loaded completely
+2024-06-14T21:36:03.040Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T21:58:29.663Z [32minfo[39m: Page loaded completely
+2024-06-14T21:58:29.676Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:05:57.416Z [32minfo[39m: Page loaded completely
+2024-06-14T22:05:57.429Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:05:57.474Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:05:58.146Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:05:58.149Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:05:58.401Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:05:58.615Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T22:05:58.847Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T22:05:58.851Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T22:08:19.640Z [32minfo[39m: Page loaded completely
+2024-06-14T22:08:19.661Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:08:19.719Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:08:21.009Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:08:21.014Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:08:35.004Z [32minfo[39m: Page loaded completely
+2024-06-14T22:08:35.019Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:08:35.072Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:08:36.346Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:08:36.347Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:09:07.332Z [32minfo[39m: Page loaded completely
+2024-06-14T22:09:07.348Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:09:07.380Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:09:08.835Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:09:08.837Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:10:14.604Z [32minfo[39m: Page loaded completely
+2024-06-14T22:10:14.618Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:10:14.700Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:10:16.011Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:10:16.013Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:13:39.165Z [32minfo[39m: Page loaded completely
+2024-06-14T22:13:39.173Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:13:39.203Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:13:40.708Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:13:40.710Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:14:07.381Z [32minfo[39m: Page loaded completely
+2024-06-14T22:14:07.391Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:14:07.416Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:14:08.721Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:14:08.723Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:24:56.859Z [32minfo[39m: Page loaded completely
+2024-06-14T22:24:56.879Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:24:56.918Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:24:57.579Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:24:57.610Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:24:57.846Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:24:58.062Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T22:24:58.308Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T22:24:58.312Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T22:25:18.966Z [32minfo[39m: Page loaded completely
+2024-06-14T22:25:18.977Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:25:19.020Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:25:19.676Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:25:19.678Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:25:19.911Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:25:20.132Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T22:25:20.363Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1])
+2024-06-14T22:25:20.374Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T22:33:11.043Z [32minfo[39m: Page loaded completely
+2024-06-14T22:33:11.066Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:33:11.129Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:33:11.783Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:33:11.786Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:33:12.046Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:33:12.263Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T22:33:12.478Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T22:33:12.487Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T22:33:12.729Z [32minfo[39m: Clicked element: By(xpath, //*[@data-status="completed"])
+2024-06-14T22:33:41.231Z [32minfo[39m: Page loaded completely
+2024-06-14T22:33:41.252Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:33:41.314Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T22:33:41.970Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:33:41.974Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:33:42.208Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T22:33:42.434Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T22:33:42.668Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T22:33:42.674Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T22:33:42.905Z [32minfo[39m: Clicked element: By(xpath, //*[@data-status="completed"])
+2024-06-14T22:53:20.218Z [32minfo[39m: Page loaded completely
+2024-06-14T22:53:20.234Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T22:53:20.489Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T22:53:20.497Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T22:53:20.740Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T22:58:07.644Z [32minfo[39m: Page loaded completely
+2024-06-14T22:58:07.655Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T22:58:07.890Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:25:10.998Z [32minfo[39m: Page loaded completely
+2024-06-14T23:25:11.010Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:25:11.251Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:25:11.255Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:25:11.481Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:25:11.911Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"])
+2024-06-14T23:28:09.120Z [32minfo[39m: Page loaded completely
+2024-06-14T23:28:09.130Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T23:28:09.166Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T23:28:09.826Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:28:09.828Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:28:10.059Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:28:10.275Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T23:28:10.487Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T23:28:10.492Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T23:29:50.634Z [32minfo[39m: Page loaded completely
+2024-06-14T23:29:50.663Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T23:29:50.719Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T23:29:51.386Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:29:51.389Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:29:51.628Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:29:51.837Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T23:29:52.074Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T23:29:52.081Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T23:29:52.303Z [32minfo[39m: Clicked element: By(xpath, //*[@data-status="completed"])
+2024-06-14T23:30:07.595Z [32minfo[39m: Page loaded completely
+2024-06-14T23:30:07.621Z [32minfo[39m: Element located: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T23:30:07.669Z [32minfo[39m: Sent keys to element: By(xpath, //input[@placeholder="Поиск..."])
+2024-06-14T23:30:08.321Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:30:08.323Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:30:08.568Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[3]/div/div/a[1])
+2024-06-14T23:30:08.790Z [32minfo[39m: Element located: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T23:30:09.012Z [32minfo[39m: Clicked element: By(xpath, /html/body/section/div/div[2]/div/div/div[1]/div[1]/div[1]/div[2]/div/div/form/div[1]/div[1])
+2024-06-14T23:30:09.021Z [32minfo[39m: Element located: By(xpath, //*[@data-status="completed"])
+2024-06-14T23:33:24.381Z [32minfo[39m: Page loaded completely
+2024-06-14T23:33:24.404Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:33:24.646Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:33:24.652Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:33:24.910Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:33:25.355Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"])
+2024-06-14T23:35:38.982Z [32minfo[39m: Page loaded completely
+2024-06-14T23:35:39.008Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:35:39.296Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:35:39.302Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:35:39.576Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:35:40.016Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-14T23:35:40.237Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-14T23:35:40.243Z [32minfo[39m: Element located: By(xpath, //*[@id="user_rate_score"])
+2024-06-14T23:35:40.246Z [32minfo[39m: Element located: By(xpath, //*[@id="user_rate_score"]//*[@value="7"])
+2024-06-14T23:35:40.249Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "submit_user_rate")])
+2024-06-14T23:35:40.523Z [32minfo[39m: Clicked element: By(xpath, //*[@id="user_rate_score"])
+2024-06-14T23:35:40.732Z [32minfo[39m: Clicked element: By(xpath, //*[@id="user_rate_score"]//*[@value="7"])
+2024-06-14T23:35:40.957Z [32minfo[39m: Clicked element: By(xpath, //*[starts-with(@id, "submit_user_rate")])
+2024-06-14T23:36:50.988Z [32minfo[39m: Page loaded completely
+2024-06-14T23:36:51.001Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:36:51.275Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:36:51.279Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:36:51.514Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:36:51.955Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-14T23:36:52.189Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-14T23:36:52.192Z [32minfo[39m: Element located: By(xpath, //*[@id="user_rate_score"])
+2024-06-14T23:36:52.194Z [32minfo[39m: Element located: By(xpath, //*[@id="user_rate_score"]//*[@value="9"])
+2024-06-14T23:36:52.204Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "submit_user_rate")])
+2024-06-14T23:36:52.452Z [32minfo[39m: Clicked element: By(xpath, //*[@id="user_rate_score"])
+2024-06-14T23:36:52.662Z [32minfo[39m: Clicked element: By(xpath, //*[@id="user_rate_score"]//*[@value="9"])
+2024-06-14T23:36:52.914Z [32minfo[39m: Clicked element: By(xpath, //*[starts-with(@id, "submit_user_rate")])
+2024-06-14T23:37:02.819Z [32minfo[39m: Page loaded completely
+2024-06-14T23:37:02.838Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:37:03.117Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:37:03.124Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:37:03.357Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:37:03.848Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-14T23:37:04.094Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-14T23:37:04.098Z [32minfo[39m: Element located: By(xpath, //*[@id="user_rate_score"])
+2024-06-14T23:37:04.100Z [32minfo[39m: Element located: By(xpath, //*[@id="user_rate_score"]//*[@value="9"])
+2024-06-14T23:37:04.102Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "submit_user_rate")])
+2024-06-14T23:52:20.227Z [32minfo[39m: Page loaded completely
+2024-06-14T23:53:13.094Z [32minfo[39m: Page loaded completely
+2024-06-14T23:53:13.107Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:53:13.350Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:53:13.355Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:53:13.577Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-14T23:55:01.093Z [32minfo[39m: Page loaded completely
+2024-06-14T23:55:01.104Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:55:01.342Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:56:56.252Z [32minfo[39m: Page loaded completely
+2024-06-14T23:56:56.268Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:56:56.520Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:56:56.602Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[7])
+2024-06-14T23:56:56.849Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[7])
+2024-06-14T23:56:57.268Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T23:58:02.165Z [32minfo[39m: Page loaded completely
+2024-06-14T23:58:02.180Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:58:02.484Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-14T23:58:02.488Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[7])
+2024-06-14T23:58:02.713Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[7])
+2024-06-14T23:58:02.755Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-14T23:58:02.780Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-14T23:58:02.787Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "submit_user")])
+2024-06-14T23:58:08.098Z [32minfo[39m: Clicked element: By(xpath, //*[starts-with(@id, "submit_user")])
+2024-06-15T00:01:25.643Z [32minfo[39m: Page loaded completely
+2024-06-15T00:01:25.654Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:01:25.922Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:01:25.929Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[7])
+2024-06-15T00:01:26.172Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[7])
+2024-06-15T00:01:26.392Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-15T00:01:26.396Z [32minfo[39m: Element clear: By(xpath, //*[@id="user_nickname"])
+2024-06-15T00:01:26.400Z [32minfo[39m: Element located: By(xpath, //*[@id="user_nickname"])
+2024-06-15T00:01:26.424Z [32minfo[39m: Sent keys to element: By(xpath, //*[@id="user_nickname"])
+2024-06-15T00:01:26.428Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "submit_user")])
+2024-06-15T00:01:31.108Z [32minfo[39m: Clicked element: By(xpath, //*[starts-with(@id, "submit_user")])
+2024-06-15T00:15:35.758Z [32minfo[39m: Page loaded completely
+2024-06-15T00:15:35.777Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:15:36.035Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:15:36.041Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:15:36.291Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:15:36.717Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:15:36.945Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:15:36.951Z [32minfo[39m: Element located: By(xpath, //*[@id="user_rate_score"])
+2024-06-15T00:15:36.954Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "edit_user_rate")]//*[@title="Удалить из списка"])
+2024-06-15T00:15:37.213Z [32minfo[39m: Clicked element: By(xpath, //*[@id="user_rate_score"])
+2024-06-15T00:16:43.667Z [32minfo[39m: Page loaded completely
+2024-06-15T00:16:43.681Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:16:43.940Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:16:43.947Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:16:44.173Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:16:44.809Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:16:45.037Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:16:45.046Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "edit_user_rate")]//*[@title="Удалить из списка"])
+2024-06-15T00:18:42.392Z [32minfo[39m: Page loaded completely
+2024-06-15T00:18:42.437Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:18:42.695Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:18:42.701Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:18:42.957Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:18:43.399Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:18:43.636Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:18:43.638Z [32minfo[39m: Element located: By(xpath, //*[@title="Удалить из списка"])
+2024-06-15T00:20:54.966Z [32minfo[39m: Page loaded completely
+2024-06-15T00:20:54.989Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:20:55.288Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:20:55.303Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:20:55.601Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:20:56.063Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:20:56.321Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:20:56.325Z [32minfo[39m: Element located: By(xpath, //*[@title="Удалить из списка"])
+2024-06-15T00:25:52.783Z [32minfo[39m: Page loaded completely
+2024-06-15T00:25:52.793Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:25:53.031Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:25:53.034Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:25:53.273Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:25:53.707Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:25:53.932Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:25:54.141Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "edit_user_rate_")]//*[@title="Удалить из списка"])
+2024-06-15T00:27:19.429Z [32minfo[39m: Page loaded completely
+2024-06-15T00:27:19.446Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:27:19.973Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:27:20.336Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:27:20.595Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:27:22.198Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:27:22.437Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:30:39.520Z [32minfo[39m: Page loaded completely
+2024-06-15T00:30:39.532Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:30:39.813Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:30:39.817Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:30:40.087Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:30:40.528Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:30:40.754Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:30:40.760Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "edit_user_rate_")]//*[@title="Удалить из списка"])
+2024-06-15T00:32:18.633Z [32minfo[39m: Page loaded completely
+2024-06-15T00:32:18.647Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:32:18.885Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:32:18.890Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:32:19.112Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:32:19.546Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:32:19.776Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Твоё имя"]/td[2]/a)
+2024-06-15T00:32:19.778Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "edit_user_rate_")]//*[@title="Удалить из списка"])
+2024-06-15T00:34:19.176Z [32minfo[39m: Page loaded completely
+2024-06-15T00:34:19.189Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:34:19.440Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:34:19.443Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:34:19.661Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[2])
+2024-06-15T00:34:20.102Z [32minfo[39m: Element located: By(xpath, //*[@data-target_russian="Девять"]/td[2]/a)
+2024-06-15T00:34:20.319Z [32minfo[39m: Clicked element: By(xpath, //*[@data-target_russian="Девять"]/td[2]/a)
+2024-06-15T00:34:20.322Z [32minfo[39m: Element located: By(xpath, //*[starts-with(@id, "edit_user_rate_")]//*[@title="Удалить из списка"])
+2024-06-15T00:39:07.287Z [32minfo[39m: Page loaded completely
+2024-06-15T00:39:58.520Z [32minfo[39m: Page loaded completely
+2024-06-15T00:39:58.541Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:39:58.792Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:40:57.389Z [32minfo[39m: Page loaded completely
+2024-06-15T00:40:57.423Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:40:57.707Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/span/a)
+2024-06-15T00:40:57.712Z [32minfo[39m: Element located: By(xpath, /html/body/header/div[4]/div[1]/a[10])
+2024-06-15T00:40:58.405Z [32minfo[39m: Clicked element: By(xpath, /html/body/header/div[4]/div[1]/a[10])

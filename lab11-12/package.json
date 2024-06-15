@@ -1,0 +1,21 @@
+{
+	"name": "lab9",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": " npx mocha ./src/tests/logout.js --timeout 100000"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chai": "^4.3.10",
+		"winston": "^3.13.0"
+	},
+	"devDependencies": {
+		"chromedriver": "^126.0.1",
+		"mocha": "^10.4.0",
+		"selenium-webdriver": "^4.20.0"
+	}
+}
